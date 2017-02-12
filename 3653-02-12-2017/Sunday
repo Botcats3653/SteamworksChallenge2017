@@ -1,0 +1,1 @@
+The main robot's roborio was flashed with its image today, and the radio was set up. A compressor was also added to the code. It was declared under the Robot class and initialized in RobotInit() and disabled in disabledInit().
